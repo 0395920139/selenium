@@ -1,0 +1,2 @@
+                   ID	|Ngày bắt đầu	Ngày kết thúc	|Hiện Hóa đơn từ ngày bắt đầu đên ngày kết thúc	|FAIL
+  TK_HD_Theo_Ngay 19	|19/10/2021	        19	|Hiện Hóa đơn từ ngày bắt đầu đên ngày kết thúc	|FAIL

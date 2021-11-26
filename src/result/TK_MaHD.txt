@@ -1,0 +1,7 @@
+             ID	|          Mã HĐ	|                       Kỳ Vọng	|STATUS
+      TK_MaHD 1	|      HD0000061	|hiện MÃ Hóa đơn lên đầu list	|PASS
+     TK_MaHD 61	|      HD0000061	|hiện MÃ Hóa đơn lên đầu list	|PASS
+      TK_MaHD 6	|       HD000006	|hiện MÃ Hóa đơn lên đầu list	|PASS
+     TK_MaHD 12	|      HD0000061	|hiện MÃ Hóa đơn lên đầu list	|FAIL
+     TK_MaHD 12	|     HD00000612	|hiện MÃ Hóa đơn lên đầu list	|PASS
+     TK_MaHD 12	|       AB000012	|hiện MÃ Hóa đơn lên đầu list	|FAIL
